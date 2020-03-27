@@ -1,4 +1,3 @@
-#ta7ya l toilet
 import socket
 import threading
 import time
